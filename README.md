@@ -1,5 +1,5 @@
 # Get-Dev-Project-App-Expense-App
-Student Management System
+Student Course Management System
 =============
 ## DESCRIPTION
 A Student/Course Management System Implemented with django 
@@ -22,9 +22,4 @@ change the python_version to your system version in your Pipfile
     * Bootstrap
     * Javascript
 
-<p>  </p>
 
-## Contributors
-* Goodness Ezeokafor : gootech442@gmail.com
-
-# Happy Hacking!!
